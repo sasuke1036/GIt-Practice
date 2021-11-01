@@ -1,5 +1,7 @@
 # Git-Practice
 
+(Personal Access Token - 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)
+
 ## TO-DO
 
 	1. git cloning 
