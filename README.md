@@ -1,6 +1,6 @@
 # Git-Practice
 
-(Personal Access Token - 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)
+(Personal Access Token - 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)
 
 ## TO-DO
 
@@ -13,6 +13,7 @@
 	7. Merging the branch and clearing the merge conflicts.
 	8. Creating tags and deletion of tags.
 	9, Using stash command.
+	
 ## 
 
 
