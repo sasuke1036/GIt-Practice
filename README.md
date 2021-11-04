@@ -1,6 +1,6 @@
 # Git-Practice
 
-(Personal Access Token - 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)
+(Personal Access Token - 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)
 
 ## TO-DO
 
